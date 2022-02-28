@@ -1,2 +1,2 @@
-# densidad
-Calculo de la densidad tomando en cuenta el valor del volumen y la masa
+# calculoDensidad
+Se calcula la densidad apartir del conocimiento del volumen y la masa
